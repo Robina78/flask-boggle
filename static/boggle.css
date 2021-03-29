@@ -1,0 +1,44 @@
+.container {
+    background-color: rgb(100, 90, 233); 
+    
+    
+    
+}
+
+div.col-sm-2.letter{
+    background-color:white;
+    color: rgb(3, 61, 148);
+    font-size: 60px;
+    border: solid black 1px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 4px;
+    
+}
+
+#score, #plays {
+    font-size: 20px;
+    color: white;
+    
+}
+
+.words {
+    font-size: 20px;
+    color: white; 
+}
+
+.msg {
+    padding: 1em;
+    
+}
+
+.msg.ok {
+    color: white;
+    background-color: rgb(74, 196, 90);
+
+}
+
+.msg.err {
+    color: white;
+    background-color: tomato;
+}
